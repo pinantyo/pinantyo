@@ -14,8 +14,9 @@ About me:
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pinantyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinantyo&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pinantyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+
 
 
 
