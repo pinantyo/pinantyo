@@ -7,7 +7,7 @@ About me:
 - ❤️ I love doing experiment in Backend Software Engineering field
 
 
-<a href="https://www.linkedin.com/in/steven-christ-pinantyo-arwidarasto-590aa4209/">
+<a href="https://www.linkedin.com/in/stevenpinantyo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 
