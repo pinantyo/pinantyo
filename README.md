@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Steven Christ Pinantyo Arwidarasto</h1>
 
 
-I’m a  scholar at Universitas Pancasila. Majoring in Informatics Engineering/Computer Science.
+I’m a Bachelor of Engineering from Universitas Pancasila. Majoring in Informatics Engineering/Computer Science.
 
 About me:
 - 🌱 I’m passionate in Data Science field and currently learning more about machine learning and deep learning
 - ❤️ I love doing experiment in Backend Software Engineering field
 
-![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pinantyo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pinantyo&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinantyo&hide_progress=true&theme=tokyonight&langs_count=10)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +27,6 @@ About me:
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
-    
 </p>
 
 
@@ -65,6 +65,9 @@ About me:
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
     </a> 
+    <!--     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-plain-wordmark.svg" alt="pytorch" width="40" height="40"/>
+    </a> -->
 </p>
 
 <h3 align="left">Other Tools & Platform as a Services:</h3>
