@@ -13,8 +13,15 @@ About me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stevenpinantyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stevenpinantyo" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/stevenpinantyo" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    </a>
+    <a href="https://public.tableau.com/app/profile/pinantyo" target="blank">
+        <img align="center" src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="tableau" height="30" width="100" />
+    </a>
 </p>
+
+
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">  
