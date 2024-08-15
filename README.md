@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven Christ Pinantyo Arwidarasto</h1>
+<h1 align="center">Hi 👋, I'm Steven Arwidarasto</h1>
 
 
 I’m a Bachelor of Engineering from Universitas Pancasila. Majoring in Informatics Engineering/Computer Science.
