@@ -7,7 +7,7 @@ About me:
 - 🌱 I’m passionate in Data Science field and currently learning more about machine learning and deep learning
 - ❤️ I love doing experiment in Backend Software Engineering field
 
-![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pinantyo&show_icons=true&theme=tokyonight&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pinantyo&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinantyo&hide_progress=true&theme=tokyonight&langs_count=10)
 
 <h2 align="left">🔭 Projects</h2>
