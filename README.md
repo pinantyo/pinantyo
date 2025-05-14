@@ -1,7 +1,9 @@
 <h2 align="left">Hello world 👋</h2>
-I'm an Informatics Engineering fresh graduate with a love for data, code, and solving meaningful problems. I enjoy building things—from interactive dashboards to smart systems powered by machine learning. Whether I'm working with Python scripts, web frameworks, or visualizing insights with Tableau, I’m always looking for ways to turn ideas into impactful tech.
-
-Curious by nature and driven by challenges, I thrive in both collaborative and independent environments. Let’s create something awesome together and keep learning along the way! 💡💻
+<p align="justify">
+I'm an Informatics Engineering fresh graduate with a love for data, code, and solving meaningful problems. I enjoy building things—from interactive dashboards to smart systems powered by machine learning. Whether I'm working with Python scripts, web frameworks, or visualizing insights with Tableau, I’m always looking for ways to turn ideas into impactful tech. 
+   
+   Curious by nature and driven by challenges, I thrive in both collaborative and independent environments. Let’s create something awesome together and keep learning along the way! 💡💻
+</p>
 
 <h2 align="left">🔭 Projects</h2>
 
