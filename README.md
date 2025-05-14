@@ -46,8 +46,8 @@ Curious by nature and driven by challenges, I thrive in both collaborative and i
             <br>PHP
         </td>
         <td align="center"  width="96">
-            <img src="https://skillicons.dev/icons?i=c" alt="c" height="40" width="40" />
-            <br>C
+            <img src="https://skillicons.dev/icons?i=java" alt="java" height="40" width="40" />
+            <br>Java
         </td>
         <td align="center"  width="96">
             <img src="https://skillicons.dev/icons?i=git" alt="git" height="40" width="40" />
